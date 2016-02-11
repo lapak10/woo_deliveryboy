@@ -14,3 +14,7 @@ register_activation_hook( __FILE__, function(){
 	add_role( 'anand_delivery_boy', 'Delivery Boy' );
 
 } );
+
+register_deactivation_hook( __FILE__, function(){
+	remove_role( 'anand_delivery_boy' );
+} );
