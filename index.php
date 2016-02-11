@@ -9,3 +9,8 @@ Author URI: http://about.me/anand.kmk
 Plugin Type: Piklist
 License: A "Slug" license name e.g. GPL2
 */
+register_activation_hook( __FILE__, function(){
+
+	add_role( 'anand_delivery_boy', 'Delivery Boy' );
+
+} );
