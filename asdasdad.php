@@ -13,17 +13,16 @@
  * @package           Hisaab_Kitaab
  *
  * @wordpress-plugin
- * Plugin Name:       [WOO] Delivery Boy
+ * Plugin Name:       Hisab Kitab
  * Plugin URI:        example.com
- * Description:       It add's and Delivery boy user role to wordpress.
- * Version:           0.1.0
+ * Description:       This is a short description of what the plugin does. It's displayed in the WordPress admin area.
+ * Version:           1.0.0
  * Author:            Anand
  * Author URI:        twitter.com/anandinux
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
  * Text Domain:       hisaab-kitaab
  * Domain Path:       /languages
- * Plugin Type:       Piklist
  */
 
 // If this file is called directly, abort.
